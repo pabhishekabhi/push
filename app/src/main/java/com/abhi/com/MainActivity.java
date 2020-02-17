@@ -13,6 +13,8 @@ import com.google.firebase.iid.FirebaseInstanceId;
 
 public class MainActivity extends AppCompatActivity {
 
+
+    // Permission Branch
     private final int REQ_CODE_CAMERA_PERMISSION = 1001;
 
     @Override
